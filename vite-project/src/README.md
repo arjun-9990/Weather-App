@@ -27,8 +27,10 @@ A simple, fast, and modern weather app built with React and Vite. It allows you 
 
 2. **Install dependencies**  
    ```bash
-  npm install
+   npm install
+  
 
 3. **Install dependencies**  
    ```bash
-  npm run dev
+   npm run dev
+  
