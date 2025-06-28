@@ -1,0 +1,6 @@
+.info-box{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
