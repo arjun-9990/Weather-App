@@ -23,7 +23,7 @@ A simple, fast, and modern weather app built with React and Vite. It allows you 
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   cd vite-project
 
 2. **Install dependencies**  
    ```bash
